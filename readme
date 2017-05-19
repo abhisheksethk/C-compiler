@@ -1,1 +1,2 @@
-I am planning to write a C++ compiler, supporting as much feature as I learn C++ & Compilers.
+This is a C compiler using Lex and Yacc.
+
